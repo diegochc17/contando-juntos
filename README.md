@@ -24,6 +24,6 @@ Teachers reported calmer transitions and improved engagement.
 
 **Run locally**
 ```bash
-git clone https://github.com/diegochc17/contando-juntos.git
+git clone https://github.com/diegochc17/contando-juntos
 cd contando-juntos
 open index.html
