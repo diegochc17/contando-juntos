@@ -20,7 +20,7 @@ Teachers reported calmer transitions and improved engagement.
 ---
 
 ### 🚀 Try It Out
-**Live Demo:** [https://diegochc17.github.io/contando-juntos](https://diegochc17.github.io/contando-juntos)  
+**Live Demo:** [https://github.com/diegochc17/contando-juntos](https://github.com/diegochc17/contando-juntos)  
 
 **Run locally**
 ```bash
